@@ -1,4 +1,4 @@
-# lungCTClassifier
+# Lung CT Scan Classifier
 Kenneth Zhang - Policython CNN CT Scan Classifier
 
 
@@ -6,10 +6,10 @@ Kenneth Zhang - Policython CNN CT Scan Classifier
 # Use of Artificial Intelligence as an Alternative to COVID-19 Screening
 
 
-# Executive Summary 
+## Executive Summary 
 This policy proposal centers around how healthcare and general testing centers can utilize contemporary Machine Learning (ML) methods to elevate the efficiency and effectiveness at which we screen the general public for COVID-19. As the early detection and diagnosis of patients for COVID-19 is crucially important for the prevention of further spread of infection, it is becoming increasingly more necessary to implement an expert system, such as an ML expert system, to be able to detect infected patients at a rapid rate, whilst maintaining exceptional diagnostic accuracies
 
-#  Abstract
+##  Abstract
 Fast diagnosis and screening need to be able to aid the prevention of the spread of pandemic disease, such as SARS-CoV-2, whilst being cost-effective and able to rapidly produce consistently accurate diagnoses. The development of an ML expert system can be used to augment the diagnosis and screening process of an identified patient alongside radio-imaging technology, such as Computed Tomography (CT). Traditional methods of using radiology images require a healthcare expert to analyze a CT scan and diagnose a patient based on those analyses. Unfortunately, such methods do not provide sufficient performance during the high outburst of the SARS-CoV-2 pandemic. Studies have shown that modern ML tools have the capability of producing much faster and valid methods of SARS-CoV-2 diagnosis using architectures such as Deep Convolutional Networks. Since familiarity with the usage of ML in screening and diagnosis of patients is still quite low, the proposal intends to provide a holistic approach for medical professionals and the general public to how the utilization of machine learning methods may overcome present-day screening issues. This policy proposal aims to comprehensively evaluate the validity of AI and ML as a necessary method of screening and diagnosis for the SARS-CoV-2 pandemic, whilst providing an experimental overview of an implementation of the expert system using valid methods of data gathering and evaluation. 
 
 
@@ -17,10 +17,10 @@ Fast diagnosis and screening need to be able to aid the prevention of the spread
 
 
 
-# Introduction
+## Introduction
 Traditional methods for the diagnosis and screening of COVID-19 alongside CT scans, as suggested in our abstract, are unable to produce rapid amounts of accurate diagnoses required for the current SARS-CoV-2 outbreak. Other methods, such as Coronavirus testing kits require specified durations of time in order for accurate results to return. Such individualized screenings require extensive amounts of time and risk the chance of human error. In order to efficiently and sufficiently handle the outburst of the novel Coronavirus, the development of an expert system for patient diagnoses is necessary. Evidence has shown that the training of Machine Learning models is able to achieve such accuracies in shorter periods of time. Through the development of expert systems powered by machine learning and artificial intelligence, these crucial problems may be eliminated, allowing for a much more cost-effective, rapid, and more accurate method of COVID-19 screening that can be deployed around the world.
 
-# Details & Analysis
+## Details & Analysis
 Two proposals to solutions for accurate and rapid diagnoses for COVID-19 have been proposed with the first being Coronavirus Testing Kits (swab kits). Coronavirus testing stops using these Coronavirus Testing Kits are conveniently located at highway exits, shopping centers, state borders, etc. Despite the convenience of Coronavirus testing kits, they are scarce during the outburst of COVID-19 and require specific conditions in order to be accurate. 
 According to the Harvard Health Publishing of Harvard Medical School, 
 	"Antibody tests can tell if someone has been infected with COVID-19. But the infected person doesn't begin producing antibodies immediately. It can take as long as three weeks for a blood antibody test to turn positive. That's why it is not useful as a diagnostic test for someone with new symptoms." - Harvard Health Publishing (Harvard Medical School), October 16, 2020.
@@ -39,7 +39,7 @@ Figure 1. Kenneth Zhang et al, CNN for COVID-19 Screening
 
 
 
-# Implementation of Our Proposal
+## Implementation of Our Proposal
 
 Stage 1 - Preliminary Requirement Analysis (PRA): Determining which hospitals and medical centers are in need of a more efficient, effective, and accurate method of patient screening, while also receiving feedback in regards to the concept of our proposal.
 
@@ -64,7 +64,7 @@ In conclusion, it can be deduced that the implementation and deployment of a mac
 
 
 
-# References
+## References
 
 1. Daily Testing Trends in the US - Johns Hopkins. (n.d.). Retrieved October 24, 2020, from https://coronavirus.jhu.edu/testing/individual-states
 2. Lalmanawama, S., Hussain, J., & Chhakchhuak, L. (2020, June 25). Applications of machine learning and artificial intelligence for Covid-19 (SARS-CoV-2) pandemic: A review. Retrieved October 23, 2020, from https://pubmed.ncbi.nlm.nih.gov/32834612/
