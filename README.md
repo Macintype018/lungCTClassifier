@@ -5,17 +5,6 @@ Kenneth Zhang - Policython CNN CT Scan Classifier
 
 # Use of Artificial Intelligence as an Alternative to COVID-19 Screening
 
-# Kenneth Zhang 
-Ancaster High School (International Baccalaureate), kzhang138@gmail.com
-
-# Jonathan He
-Princess Anne High School (International Baccalaureate), jonathanhe12345678@gmail.com
-
-# Faisal Al-Qahtani
-Al Forsan International School, Riyadh, faisalalqahtanicollege@gmail.com
-
-
-
 
 # Executive Summary 
 This policy proposal centers around how healthcare and general testing centers can utilize contemporary Machine Learning (ML) methods to elevate the efficiency and effectiveness at which we screen the general public for COVID-19. As the early detection and diagnosis of patients for COVID-19 is crucially important for the prevention of further spread of infection, it is becoming increasingly more necessary to implement an expert system, such as an ML expert system, to be able to detect infected patients at a rapid rate, whilst maintaining exceptional diagnostic accuracies
